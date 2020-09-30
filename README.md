@@ -11,6 +11,8 @@ To bring Dark-mode to any of your websites. Just copy paste the snippet and you 
 | --- | --- |
 | Dark Theme |[Preview](https://darkmodedemo.web.app) |
 | Dark Theme |[Ayush's Portfolio](https://iayush.web.app) |
+| Dark Theme |[Nilay's Portfolio](https://inilaydas.web.app) |
+
 
 
 
